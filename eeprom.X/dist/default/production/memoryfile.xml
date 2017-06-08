@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/eeprom.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>1024</length>
+      <used>526</used>
+      <free>498</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>11520</length>
+      <used>2196</used>
+      <free>9324</free>
+    </memory>
+  </executable>
+</project>
